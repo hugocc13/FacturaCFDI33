@@ -40,8 +40,22 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Program.cs" />
+    <Compile Include="Principal.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Librerias\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Xsd\catCFDI.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Xsd\cfdv33.xsd">
+      <SubType>Designer</SubType>
+    </None>
+    <None Include="Xsd\tdCFDI.xsd">
+      <SubType>Designer</SubType>
+    </None>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
