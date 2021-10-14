@@ -1,4 +1,4 @@
-<mxfile modified="2021-10-14T06:11:38.167Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="I8ZsoRdzoJqrzEATAhoa" version="15.5.0" type="github">
+<mxfile modified="2021-10-14T06:15:01.980Z" host="app.diagrams.net" agent="5.0 (Windows NT 6.3; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/93.0.4577.63 Safari/537.36" etag="WKoz2bLzY0rUykfRlZAr" version="15.5.0" type="github">
   <diagram id="WI9T0HZ2pTsCkuznbFz-" name="Page-1">
     <mxGraphModel dx="1464" dy="567" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
@@ -403,6 +403,12 @@
         </mxCell>
         <mxCell id="vVn7pZvmLBgh-GgAtB59-73" value="&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font size=&quot;2&quot;&gt;CargaRemisionE.dll es una Librería&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font size=&quot;2&quot;&gt;que se consume desde el servicio&amp;nbsp; &amp;nbsp;&lt;/font&gt;&lt;br&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font size=&quot;2&quot;&gt;y dentro consume los servicios de&amp;nbsp;&lt;/font&gt;&lt;/p&gt;&lt;font size=&quot;2&quot;&gt;remisión&lt;/font&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="837" y="1768" width="220" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="vVn7pZvmLBgh-GgAtB59-75" value="&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font size=&quot;2&quot;&gt;t_hugocc@soriana.com - 20211014&lt;/font&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="905" y="2330" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vVn7pZvmLBgh-GgAtB59-76" value="&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Recepción CFDI&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;Remisión Electronica&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin-bottom: 0cm&quot;&gt;&lt;font style=&quot;font-size: 16px&quot;&gt;&lt;br&gt;&lt;/font&gt;&lt;/p&gt;" style="text;html=1;resizable=0;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5" y="190" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
